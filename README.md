@@ -1,2 +1,12 @@
-# gomoku-ai
-This is the project from the course Logic for Computer Science at National Chengchi University in Spring 2021
+# Gomoku-AI
+This is a National Chengchi Univercity Logic for Computer Science Project using Prolog.
+
+## Run the code
+
+Run the code
+
+    swipl fp.pl
+
+Run with sample
+
+    swipl fp.pl < 1.in
