@@ -1,0 +1,16 @@
+black(11, 8).
+black(11, 7).
+black(10, 8).
+black(9, 8).
+black(8, 9).
+black(8, 8).
+black(7, 9).
+black(7, 7).
+white(6, 10).
+white(6, 9).
+white(6, 8).
+white(8, 7).
+white(9, 7).
+white(10, 7).
+white(8, 6).
+white(9, 6).
