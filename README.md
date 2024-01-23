@@ -1,4 +1,4 @@
-# Gomoku-AI
+# Gomoku AI
 This is a National Chengchi Univercity Logic for Computer Science Project using Prolog.
 
 ## Run the code
